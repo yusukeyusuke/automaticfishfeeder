@@ -11,3 +11,5 @@ This is a servo control project for automatic feeders.
 - MsTimer2::setで1時間(36000000UL)ごとにflagtimer()を呼び出すように設定
 - now++で1時間経過をカウント
 - 9時もしくは15時だったらdoFeed=1で餌やりを指示
+
+![circuit](https://raw.githubusercontent.com/yusukeyusuke/automaticfishfeeder/master/automaticfeeder-circuit.png)
